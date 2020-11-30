@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "Automata.cpp"
+#include "automata.h"
 
 TEST(lab4, test1)
 {
