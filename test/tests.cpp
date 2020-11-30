@@ -100,7 +100,7 @@ TEST(lab4, test10)
     EXPECT_EQ(1, i);
 }
 
-TEST(lab4, test10)
+TEST(lab4, test11)
 {
     Automata* automata = new Automata();
     automata->on();
@@ -118,7 +118,7 @@ TEST(lab4, test10)
     EXPECT_EQ(120, i);
 }
 
-TEST(lab4, test11)
+TEST(lab4, test12)
 {
     Automata* automata = new Automata();
     automata->on();
@@ -137,7 +137,7 @@ TEST(lab4, test11)
     EXPECT_EQ(0, i);
 }
 
-TEST(lab4, test11)
+TEST(lab4, test13)
 {
     Automata* automata = new Automata();
     automata->on();
@@ -150,7 +150,7 @@ TEST(lab4, test11)
     EXPECT_EQ(10, i);
 }
 
-TEST(lab4, test12)
+TEST(lab4, test14)
 {
     Automata* automata = new Automata();
     automata->on();
